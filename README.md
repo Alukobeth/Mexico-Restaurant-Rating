@@ -61,7 +61,7 @@ so yes, there is a bias in the data sample.
  
 ![](budget.JPG)
 
-More than half of consumer has a budget spend of medium size so their will be demand and supply gap in the market in that the consumer will only be able to patronize restaurants with medium price that suits their budget. Restaurants with higher prices will have low rating.
+More than half of consumer has a budget spend of medium size so their will be demand and supply gap in the market in that the consumer will only be able to patronize restaurants with medium price that suits their budget. So,restaurants with higher prices will have low rating.
 
 ## Investing Characteristics
 
