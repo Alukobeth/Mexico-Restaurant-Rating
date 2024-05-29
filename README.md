@@ -47,7 +47,7 @@ Mexican is the most preferred cuisine so the way the consumers would rate mexica
 
 ![](marital.JPG)
 
-76 of those consumers are single while 7 are married. The other 3 cities had more single consumers than married. In fact, the difference in number between single and married is high. This already points to single people as the group that patronized most restaurants.
+In San Luis Potosi, 76 of those consumers are single while 7 are married. The other 3 cities had more single consumers than married. In fact, the difference in number between single and married is high. This already points to single people as the group that patronized most restaurants.
 
 ## Consumers Demography
 
