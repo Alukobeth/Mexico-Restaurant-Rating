@@ -54,8 +54,8 @@ In San Luis Potosi, 76 of those consumers are single while 7 are married. The ot
 ![](que2.JPG)
 
 86% of the consumers are students, 12% are employed while 2% are unemployed. Students dominated restaurants patronage in the 3 cities used in this dataset in Mexico. This is probably influenced by the proximity of restaurants to schools. The employed probably couldn’t visit restaurants because of their tight schedule. We have to take the age group of the consumers into consideration, 21–25 age group had the most 
- So yes, there is a bias in the data sample
- 63% of the consumers used public transport. This resonates with the occupation of the consumers and age group. 27% preferred private car while 11% walked to the restaurant.
+so yes, there is a bias in the data sample.
+ Also, 63% of the consumers used public transport. This resonates with the occupation of the consumers and age group. 27% preferred private car while 11% walked to the restaurant.
 
  ## Market Demand and Supply
  
