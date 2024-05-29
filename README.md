@@ -43,7 +43,7 @@ The consumer preferences will affect the rating due to this factors:
 
 ![](cusine.JPG)
 
-Mexican is the most preferred cuisine so the way the consumers would rate mexican food compared to other restaurant that produce non mexican food would be different will be high 
+Mexican is the most preferred cuisine so the way the consumers would rate mexican food compared to other restaurant that produce non mexican food would be different and will be high 
 
 ![](marital.JPG)
 
