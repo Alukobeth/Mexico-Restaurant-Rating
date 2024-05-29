@@ -71,10 +71,10 @@ Based on the analysis, Tortas Locas Hipocampos had the highest overall rating an
 - Tortas Locas Hipocampos is located in San Luis Potosi. San Luis Potosi is the city that has most restaurants and most restaurants are located in a closed area.
 - Mexican cuisine is the most preferred cuisine among consumers. American cuisine is preferred at a distant second. I recommend that for a profitable restaurant investment in Mexico, Mexican cuisines are a must.
 - Tortas Locas Hipocampos do not offer neither alcohol service nor allow smoking. Yet, it is the most rated Restaurant. Apparently, lack of alcohol service or smoking do not have negative effects on the patronage of the restaurant.
-- The food price which also infuences purchasing power of the consumer.
+- The food price which also influences purchasing power of the consumer. The food price should be of medium price in that it suits the consumers budget which is a medium size budget. 
 
   ## Recommedation
 - I would recommend that there should be more outlets close to the school since students patronize the most.
-- Since more than half of the consumers have medium budget and 27% of the consumers have mlow budget, I would recommend that the price of the meals should be low/medium range
+- Since more than half of the consumers have medium budget and 27% of the consumers have low budget, I would recommend that the price of the meals should be low/medium range
 - San Luis Potosi city being the highest in the number of restaurants and consumers, I would recommend investors to target the area since there is likelihood of it to generate more sales.
 - Since Tortas Locas Hipocampo restaurant is the highest rated restaurant, investors can target the restaurant. It also offers medium level of pricing, no alcohol service and it is located in San Luis Potosi.
