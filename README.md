@@ -33,7 +33,7 @@ The report comprises 2 Pages
 ![](dashboard2.JPG)
 
 ## Analysis
-## Highest rated restaurant
+### Highest rated restaurant
 
 ![](rated1.JPG)
 
@@ -49,7 +49,7 @@ Mexican is the most preferred cuisine so the way the consumers would rate mexica
 
 In San Luis Potosi, 76 of those consumers are single while 7 are married. The other 3 cities had more single consumers than married. In fact, the difference in number between single and married is high. This already points to single people as the group that patronized most restaurants.
 
-## Consumers Demography
+### Consumers Demography
 
 ![](que2.JPG)
 
@@ -57,13 +57,13 @@ In San Luis Potosi, 76 of those consumers are single while 7 are married. The ot
 so yes, there is a bias in the data sample.
  Also, 63% of the consumers used public transport. This resonates with the occupation of the consumers and age group. 27% preferred private car while 11% walked to the restaurant.
 
- ## Market Demand and Supply
+ ### Market Demand and Supply
  
 ![](budget.JPG)
 
 More than half of consumer has a budget spend of medium size so their will be demand and supply gap in the market in that the consumer will only be able to patronize restaurants with medium price that suits their budget. So,restaurants with higher prices will have low rating.
 
-## Investing Characteristics
+### Investing Characteristics
 
 ![](invest.JPG)
 
