@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This is a Power BI project on restaurant rating which contains information about restaurants in "Mexico". A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers.
+This is a Capstone project on restaurant rating which contains information about restaurants in "Mexico". A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers.
 
 ## Problem Statement
 1.  What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings?
